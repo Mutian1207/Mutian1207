@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Mutian Ling</h1>
 
 
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate software developer</h3>
 <h3 align="center">M.S. in Computer Engineering(graduate in 2024)</h3>
 
  <p align="center"><br/>
@@ -27,14 +27,13 @@
 
 
 
-<img width="50%" align="right" alt="Github Image" src="bg.jpeg" />
+<img width="45%" align="right" alt="Github Image" src="bg.jpeg" />
 
-
+### AboutMe 🌟
 
 - 🎓 Master of Science in Computer Engineering at Duke University
-- ⚡ Proficient in C++ and Python
 - 💰 Incoming SDE @
-- 🌟 
+- 🌟 People's dreams have no end!
 
 
 
@@ -46,8 +45,27 @@
 - 🃏 Texas Hold'em
 - 🎮 Dota 2
 
----
+### Tech Stack 🌟
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Mutian1207)]()
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash)
+
+
+<img width="60%" alt="Mutian1207's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mutian1207&hide=stars&show_icons=true&hide_border=true&theme=cobalt" width="500"/><img width="39.7%" alt="Mutian1207's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutian1207&hide=smalltalk&theme=cobalt&layout=compact&hide_border=true" width="500"/>
+
 
 Feel free to reach out if you have any questions or collaboration opportunities! 😊
