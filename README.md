@@ -40,7 +40,7 @@
 ### Interests 🌟
 
 - 🏀 Basketball
-- 💪 Fitness
+- 💪 Weights Lifting
 - 🎣 Fishing
 - 🃏 Texas Hold'em
 - 🎮 Dota 2
