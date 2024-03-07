@@ -27,7 +27,7 @@
 
 
 
-<img width="45%" align="right" alt="Github Image" src="bg.jpeg" />
+<img width="55%" align="right" alt="Github Image" src="bg.jpeg" />
 
 ### AboutMe 🌟
 
@@ -52,7 +52,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)</br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
